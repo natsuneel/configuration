@@ -1,0 +1,19 @@
+{
+    "forceupdate_version" : "1.0",
+      "forceupdate_dialog" : {
+           "Heading": " Version 6.5",
+           "New Features" : " Changelog: \n1. Fixed Reel video downloading issue. \n2. Fixed facebook video downloading issues. \n3. Added Business Status Saver Support \n4. Added performance mode for older device(RAM less than 4Gb) \n5. Now you can report bugs easily so that we will release updates fastly.",
+           "link" : "market://details?id=com.zeroltd.videodownloader"
+     },
+   
+     "forcedialog_issues_enable" : "true",
+      "forcedialog_issues_dialog" : {
+           "Heading": "Attention",
+           "Text1" : "Due to some technical issues, Josh downloading is not working. Our team working on a fix. \nPlease wait for some time \nFor more issues mail us"
+     },
+   
+   "INTERSTITIALAD_INTERVAL":"5",
+   "DOWNLOADCOUNT_INTERVAL":"25"
+     
+   }
+   
