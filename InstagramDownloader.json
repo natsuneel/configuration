@@ -1,5 +1,5 @@
 {
-    "forceupdate_version" : "1.0",
+    "forceupdate_version" : "1",
       "forceupdate_dialog" : {
            "Heading": " Version 6.5",
            "New Features" : " Changelog: \n1. Fixed Reel video downloading issue. \n2. Fixed facebook video downloading issues. \n3. Added Business Status Saver Support \n4. Added performance mode for older device(RAM less than 4Gb) \n5. Now you can report bugs easily so that we will release updates fastly.",
